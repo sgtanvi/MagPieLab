@@ -1,6 +1,6 @@
 /**
  * A program to carry on conversations with a human user.
- * This version: 
+ * This version: mdm
  * <ul><li>
  *    Uses advanced search for keywords 
  * </li></ul> 
